@@ -12,6 +12,5 @@ The results stored in results folder are generated for only 200 epochs. The appr
 Sample test file:
 
 Generated file
-![test file](https://drive.google.com/open?id=1zi5p6Qe3opf_saPQ01-EmGyfrfY4wzyJ)
 
 
