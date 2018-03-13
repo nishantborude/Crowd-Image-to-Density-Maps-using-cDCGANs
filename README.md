@@ -10,7 +10,7 @@ The current files generate the building facades from the blue stamps. Thus, one 
 The results stored in results folder are generated for only 200 epochs. The approximate running time is 4 hours on GPU.
 
 Sample Test File:
-
+![cmp_b0205](https://user-images.githubusercontent.com/10834446/37372755-471107fa-26ea-11e8-8255-b944a15ab698.jpg)
 
 Generated Image:
 ![cmp_b0205](https://user-images.githubusercontent.com/10834446/37372691-0b69faea-26ea-11e8-9ef0-24e9fa5c5dee.jpg)
